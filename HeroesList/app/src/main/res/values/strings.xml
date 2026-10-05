@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HeroesList</string>
+    <string name="hero_image_description">Imagem do herói</string>
+</resources>

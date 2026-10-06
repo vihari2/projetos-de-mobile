@@ -1,1 +1,1 @@
-Projetos realizados na disciplina de Desenvolvimento Web.
+Projetos realizados na disciplina de Desenvolvimento Mobile.
